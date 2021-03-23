@@ -1,0 +1,252 @@
+.Breakfast-places{
+    width: 512px;
+  height: 51px;
+  margin: 37px 25px 27px 113px;
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: darkslateblue;
+
+}
+.vertical-box{
+    display: inline-block;
+    width: 243px;
+  height: 682px;
+  margin: 27px 45px 8px 93px;
+  padding: 17px 25px 31px 26px;
+  box-shadow: 0 8px 8px 0 #777;;
+  background-color: var(--white);
+}
+.horizontal-box1{
+    display:inline-block;
+    vertical-align: top;
+    width: 660px;
+    height: 291px;
+    margin: 27px 154px 34px 45px;
+    padding: 25px 32.6px 20px 35px;
+    box-shadow: 0 8px 8px 0 rgb(94, 93, 93);
+    background-color: var(--white);
+  }
+  .filter{
+    width: 55px;
+    height: 25px;
+    margin: 0 154px 10px 0;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color:darkslateblue;
+
+  }
+  .select-location
+  {
+    width: 106px;
+    height: 20px;
+    margin: 10px 102px 11px 1px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: normal;
+    
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color:darkslateblue;
+  }
+.cuisine{
+    width: 51px;
+    height: 20px;
+    margin: 22px 157px 15px 1px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkslateblue;
+}
+.checkbox-list{
+    width: 100px;
+  height: 139px;
+  margin: 15px 14px 12px 11px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+
+}
+.radio-list{
+
+  width: 110px;
+  height: 159px;
+  margin: 15px 14px 12px 11px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}
+.inside-rec1{
+  width:650px;
+ height:150px;
+ margin-right: 10px;
+
+}
+.The-big-chill-cakery {
+  display: inline-block;
+  width: 298px;
+  height: 43px;
+  margin-left: 10px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color:darkslateblue;
+}
+.fort{
+  display: inline-block;
+  width: 350px;
+  margin-left: 10px;
+    height: 23px;
+  
+    font-family: Poppins;
+    font-size: 21px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: darkslateblue;
+  }
+  .shop1
+  {
+    width: 365px;
+    height: 23px;
+    margin-left:10px;
+    margin-top: 5px;
+    font-family: Poppins;
+    font-size: 19px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+  }
+
+
+.dropdowndiv{
+  width:200px;
+}
+.dropdown-p{
+  width: 160px;
+  height: 20px;
+  margin: 0 61.1px 0 0;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+  text-decoration: none;
+}
+.cost-for-two {
+  width: 89px;
+  height: 20px;
+  margin: 26px 119px 15px 1px;
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color:darkslateblue;
+}
+.inside-rect2{
+  width:611px;
+  height:112px;
+  margin-right: 10px;
+ 
+}
+.CUISINE1{
+  display: inline-block;
+  width: 140px;
+  height: 89px;
+  margin-right: 0px;
+  margin-top: 1px;
+}
+.costfortwo{
+  display: inline-block;
+  width: 140px;
+  height: 37px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+}
+.bakery{
+  display: inline-block;
+  width: 340px;
+  height: 35px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.88;
+  letter-spacing: normal;
+  text-align: left;
+  color:rgb(58, 45, 143);
+
+}
+.norecords{
+  color:red;
+  font-size:40px;
+  text-align:center;
+  
+}
+.pagination{
+  margin-left: 275px;
+}
+.pagination a{
+  color: gray;
+  float: center;
+  padding: 8px 16px;
+  border:solid 1px gray;
+  border-radius: 15px;
+  margin: 2px;
+  
+}

@@ -1,0 +1,324 @@
+.find{
+    width: 754px;
+    height: 51px;
+    margin: 22px 205px 38px 340px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: left;
+    color: white;
+    position:absolute;
+    top:20%
+}
+.e{
+position:absolute;
+font-family: Poppins;
+    
+    text-align: center;
+    font-size: 59px;
+color: #3b5628;
+background-color: whitesmoke;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 8%;
+    margin-left: 46%;
+    margin-right: 40%;
+}
+.dropdown-pls{
+    width: 180px;
+    opacity: 0.8;
+    border-color: whitesmoke;
+    height: 43px;
+    font-family: Poppins;
+  font-size: 15px;
+  color: #636f88;
+  border-radius: 10px;
+   
+}
+.dropdown{
+  
+    opacity: 0.8;
+    position: absolute;
+    top: 28%;
+    width: 206px;
+   margin-top: 43px;
+   text-align: center;
+    height: 50px;
+   background-color: whitesmoke;
+    margin-left: 313px;
+    border-radius: 10px;
+    
+    
+  }
+  .inner-div{
+      display: inline-block;
+      width:50%;
+      height: 100%;
+
+  }
+.quicksearh{
+
+    
+    box-shadow: gray;
+    padding : 20px 20px 20px 20px;
+    box-shadow: 0px 0px 10px 10px;
+    height: 250px ;
+     width:200px;
+}
+.qs-heading{
+    width: 239px;
+    height: 43px;
+    margin: 48px 151px 7px 38px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color:darkslateblue;
+    
+}
+.search-box{
+    width: 477px;
+    position:absolute;
+    top: 31%;
+    opacity: 0.8;
+    margin-left: 543px;
+    margin-top: 20px;
+   text-align: center;
+    height: 50px;
+   background-color: whitesmoke;
+   border-radius: 10px;
+   
+}
+.placeholder{
+    width: 447px;
+margin-left: 30px;
+   border:0px;
+   border-color: whitesmoke;
+    height: 18px;
+    opacity: 0.8;
+}
+
+.breakfast-content
+{
+    width: 137px;
+  height: 62px;
+  margin: 4px 0 44px 29px;
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #8c96ab;
+}
+
+
+.breakfast{
+    width: 88px;
+    height: 25px;
+    margin: 25px 49px 4px 29px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color:darkslateblue;
+
+}
+.qs-div{
+    margin-left:80px
+}
+.wallpaper{
+    height: 52%;
+     width: 100%;
+}
+.discover-restaurants-by-type-of-meal {
+    width: 331px;
+    height: 25px;
+    margin: 7px 59px 30px 38px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  .rowclass{
+    
+    box-shadow: 0 3px 6px 0px grey; 
+    height: 160px ;
+     width:360px;
+      display: inline-block;
+      margin-bottom: 10px;
+       margin-right: 20px;
+       transition: 1s;
+  }
+ 
+  .col6{
+    height: 160px;
+    width: 180px; 
+    padding-left: 2px;
+  }
+  .login-wrapper{
+    position: absolute;
+    display: flex;
+    float: right;
+    margin-left: 1032px;
+    margin-top:20px
+  }
+  .login-div{
+      margin-right: 35px;
+  }
+  .login-div p{
+      color:white;
+      opacity: 0.9;
+      font-size: 17px;
+  }
+  .creat-act-div p{
+    color:white;
+    opacity: 0.9;
+    font-size: 17px;
+    
+  }
+  .creat-act-div{
+    transition:transform 0.5s;
+  }
+  .creat-act-div:hover{
+      color:red
+  }
+  .rowclass:hover{
+      transform: scale(1.3);
+       box-shadow: 10px 10px 5px 4px grey;
+  }
+
+
+  @media only screen and (max-width:600px){
+    .e{
+        position:absolute;
+        font-family: Poppins;
+            
+            text-align: center;
+            font-size: 59px;
+        color:red;
+        background-color: whitesmoke;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            position: absolute;
+            top: 4%;
+            margin-left: 46%;
+            margin-right: 40%;
+        }
+        .find{
+            width: 554px;
+            height: 51px;
+            margin: 22px 205px 38px 3px;
+            font-family: Poppins;
+            font-size: 27px;
+            font-weight: 600;
+            text-align: left;
+            color: white;
+            position:absolute;
+            top:20%
+        }
+        .dropdown{
+  
+            opacity: 0.8;
+            position: absolute;
+            top: 28%;
+            width: 180px;
+           margin-top: 43px;
+           text-align: center;
+            height: 50px;
+           background-color: whitesmoke;
+            margin-left: 23px;
+            
+            
+          }
+          .search-box{
+            width: 470px;
+            position:absolute;
+            top: 32%;
+            opacity: 0.8;
+            margin-left: 212px;
+            margin-top: 20px;
+           text-align: center;
+            height: 50px;
+           background-color: whitesmoke;
+           
+        }
+
+
+  }
+  @media only screen and (min-width:600px) and (max-width:1156px){
+    .e{
+        position:absolute;
+        font-family: Poppins;
+            
+            text-align: center;
+            font-size: 59px;
+        color:red;
+        background-color: whitesmoke;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            position: absolute;
+            top: 4%;
+            margin-left: 46%;
+            margin-right: 40%;
+        }
+        .find{
+            width: 554px;
+            height: 51px;
+            margin: 22px 205px 38px 80px;
+            font-family: Poppins;
+            font-size: 30px;
+            font-weight: 600;
+            text-align: left;
+            color: white;
+            position:absolute;
+            top:20%
+        }
+        .dropdown{
+  
+            opacity: 0.8;
+            position: absolute;
+            top: 28%;
+            width: 180px;
+           margin-top: 43px;
+           text-align: center;
+            height: 50px;
+           background-color: whitesmoke;
+            margin-left: 23px;
+            
+            
+          }
+          .search-box{
+            width: 400px;
+            position:absolute;
+            top: 32%;
+            opacity: 0.8;
+            margin-left: 212px;
+            margin-top: 20px;
+           text-align: center;
+            height: 50px;
+           background-color: whitesmoke;
+           
+        }
+
+
+  }
