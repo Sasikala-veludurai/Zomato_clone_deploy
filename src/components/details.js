@@ -5,7 +5,7 @@ import axios from 'axios';
 import Modal from 'react-modal';
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from 'react-responsive-carousel';
-import Headers from './header';
+
 
 
 const customStyles = {
@@ -166,7 +166,7 @@ class Details extends React.Component{
     render(){
         const {restaurant,GallerymodalIsOpen,OrdermodalIsOpen,MenuItem,formModalIsOpen,address,contactNumber,email,userName,subTotal}= this.state;
         return <div>
-            <Headers/>
+           
              <div className="container-fluid">
                 <button className='buttonb' onClick={()=>this.handleclick('GallerymodalIsOpen')} >Click to see image gallery</button>
                 <img src={`../${restaurant.image}`} style={{height:'395px',width:'100%',marginBottom:'20px'}} ></img>

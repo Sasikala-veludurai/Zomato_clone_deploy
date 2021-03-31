@@ -61,6 +61,10 @@ class Header extends React.Component{
     handleonclose=()=>{
         this.setState({loginmodalisopen:false})
     }
+    handlecreateaccnt=()=>{
+        
+    }
+
    render(){
        const { loginmodalisopen, isuserlogedin, username }=this.state;
        return(
@@ -86,7 +90,7 @@ class Header extends React.Component{
                 </div>
 
                 <div className="recsignup">
-                 <div className="signup">Create an account</div>
+                 <div className="signup" onClick={this.handlecreateaccnt}>Create an account</div>
                 </div> 
                  
             </div> 

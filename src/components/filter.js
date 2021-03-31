@@ -4,7 +4,7 @@ import "../styles/filter.css"
 import axios from 'axios';
 import './details';
 import './Home';
-import Headers from './header';
+
 
 
 
@@ -200,7 +200,7 @@ cuisineids:[]
     render() {
 
         const {restaurants,locations,pagecounts}=this.state;
-        return ( <div> <Headers/>
+        return ( <div> 
        <div className="Breakfast-places">{`Breakfast Places in ${restaurants.city}`}</div>
                 <div style={{ display: 'inline-block' }}>
                     <div className="vertical-box">

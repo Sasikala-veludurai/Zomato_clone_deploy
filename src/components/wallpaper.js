@@ -1,6 +1,7 @@
 import React from 'react';
 import "../styles/Home.css";
 
+
 class 
 Wallpaper extends React.Component {
     handlechange=(event)=>{
@@ -14,11 +15,7 @@ Wallpaper extends React.Component {
         return (
 <div>    
     <div>
-        <div className="login-wrapper"> 
-            <div className="login-div"><p>Login</p></div>
-           <div className="creat-act-div"><p>Create an Account</p></div>
-        </div>
-
+     
         <p className="e">e!</p>
         <p className="find"> Find the best restaurants, cafés, and bars</p>
         <div className="dropdown">
