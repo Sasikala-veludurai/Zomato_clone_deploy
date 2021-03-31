@@ -13,7 +13,7 @@
         margin-right: 40%;
     }
     .headerdiv{
-   background-color: rgb(75, 222, 171);
+   background-color: rgb(22 34 17);
     height: 50px;
     
     
@@ -41,20 +41,20 @@
     margin-left: 36px;
     display: inline-block;
     border-radius: 3px;
-    border:solid 1px black;
+    border:solid 1px white;
     
     
     
   }
     .login{
         display: inline-block;
-        width: 330px;
+       
         height: 23px;
         opacity: 0.9;
         font-family: Poppins;
         font-size: 16px;
        margin-left: 9px;
-        color:black;
+        color:white;
       
         
     }
@@ -66,7 +66,7 @@ width: 136px;
   font-family: Poppins;
   font-size: 16px;
   
-  color:black;
+  color:white;
   opacity: 0.9;
 
     }
@@ -86,10 +86,10 @@ width: 136px;
       .headerbutton{
         float:right;
         margin-right: 16px;
-        width: 366px;
+        width: 965px;
         height: 50px;
         margin-top: 3px;
     
-      
-    }
+      }
+
     }

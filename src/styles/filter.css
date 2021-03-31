@@ -250,7 +250,7 @@
   margin: 2px;
   
 }
-@media only screen and (max-width:600px){
+@media only screen and (min-width:676px) and (max-width:1051px){
   .horizontal-box1{
     display:inline-block;
     vertical-align: top;
@@ -261,4 +261,19 @@
     box-shadow: 0 8px 8px 0 rgb(94, 93, 93);
     background-color: var(--white);
   } 
+  .Breakfast-places{
+    width: 512px;
+  height: 51px;
+  margin: 37px 25px 27px 19px;
+  font-family: Poppins;
+  font-size: 34px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: darkslateblue;
+
+}
 }
