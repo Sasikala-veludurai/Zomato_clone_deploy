@@ -250,3 +250,15 @@
   margin: 2px;
   
 }
+@media only screen and (max-width:600px){
+  .horizontal-box1{
+    display:inline-block;
+    vertical-align: top;
+    width: 430px;
+    height: 291px;
+    margin: 27px 154px 34px 45px;
+    padding: 25px 32.6px 20px 35px;
+    box-shadow: 0 8px 8px 0 rgb(94, 93, 93);
+    background-color: var(--white);
+  } 
+}

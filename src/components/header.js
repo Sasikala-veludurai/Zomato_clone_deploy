@@ -68,7 +68,7 @@ class Header extends React.Component{
    render(){
        const { loginmodalisopen, isuserlogedin, username }=this.state;
        return(
-        <div style={{position:"absolute"}}>
+        <div >
             <div style={{width: '1322px',height:'50px'}}>
             <p className="elogo" onClick={this.navigate}>e!</p>
         {isuserlogedin ? 

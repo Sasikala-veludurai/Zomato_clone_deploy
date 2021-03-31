@@ -13,11 +13,10 @@
         margin-right: 40%;
     }
     .headerdiv{
-   background-color: whitesmoke;
+   background-color: rgb(75, 222, 171);
     height: 50px;
-    margin-left: 15px;
-    margin-right: 15px;
-    box-shadow: 0 0 10px 10px gray;
+    
+    
     }
     .headerbutton{
         float:right;
@@ -82,4 +81,15 @@ width: 136px;
       color:darkslateblue;
       font-size: 23px;
       font-weight: 600;
+    }
+    @media only screen and (min-width:600px) and (max-width:1156px){
+      .headerbutton{
+        float:right;
+        margin-right: 16px;
+        width: 366px;
+        height: 50px;
+        margin-top: 3px;
+    
+      
+    }
     }
