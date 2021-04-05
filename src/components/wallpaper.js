@@ -19,7 +19,7 @@ Wallpaper extends React.Component {
         <p className="e">e!</p>
         <p className="find"> Find the best restaurants, cafés, and bars</p>
         <div className="dropdown">
-            <span className="glyphicon glyphicon-map-marker" style={{top:'3px'}}></span>
+            <span className="glyphicon glyphicon-map-marker " className="symbol" ></span>
             <select className="dropdown-pls" onChange ={this.handlechange}>
                 <option > Please type a location</option>
                 {

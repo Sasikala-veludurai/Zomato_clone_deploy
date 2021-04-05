@@ -18,7 +18,7 @@ class Quicksearchitems extends React.Component{
         return(
             
                 <div className="col-lg-4 col-sm-12 col-md-6 " >
-                    <div className="rowclass "  onClick={ ()=>{this.handleclick(item.meal_type)}}>
+                    <div className="rowclass "  onClick={ ()=>{this.handleclick(Number(item.meal_type))}}>
                          <div className="row" style={{ height: '160px', width: '360px' }}>
                                 <div className="col-6">
                                         <div className="col6">

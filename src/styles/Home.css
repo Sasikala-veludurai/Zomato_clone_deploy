@@ -67,6 +67,9 @@ background-color: whitesmoke;
     height: 250px ;
      width:200px;
 }
+.symbol{
+    top:3px;
+}
 .qs-heading{
     width: 239px;
     height: 43px;
@@ -266,13 +269,17 @@ margin-left: 30px;
             width: 166px;
             opacity: 0.8;
             border-color: whitesmoke;
-            height: 20px;
+            height: 38px;
             font-family: Poppins;
           font-size: 15px;
           color: #636f88;
           padding-top:17px;
           border-radius: 10px;
            
+        }
+        .symbol{
+            padding-left: 13px;
+            top:3px;
         }
         .placeholder{
             width: 257px;
